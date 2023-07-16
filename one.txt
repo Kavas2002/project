@@ -6,4 +6,9 @@ c is 20
 the first file i created and push it to the github
 add a and b 
 store in c
+#1
+a = b
+b = a
+a == b is true or false?
+b == a is true or false?
 
