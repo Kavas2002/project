@@ -3,3 +3,7 @@ a = 10
 b = 10
 c = a+b
 c is 20
+the first file i created and push it to the github
+add a and b 
+store in c
+
