@@ -1,1 +1,5 @@
 the first file i created and push it to the github 
+a = 10
+b = 10
+c = a+b
+c is 20
